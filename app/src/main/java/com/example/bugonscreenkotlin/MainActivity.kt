@@ -5,7 +5,6 @@ import android.os.Bundle
 import android.util.Log
 import android.view.MotionEvent
 import android.view.WindowManager
-import android.widget.ImageView
 import android.widget.RelativeLayout
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
